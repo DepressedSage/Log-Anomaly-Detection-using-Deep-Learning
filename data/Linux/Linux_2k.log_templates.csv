@@ -1,0 +1,114 @@
+EventId,EventTemplate,Occurrences
+38dae3e2,authentication failure; logname= uid=<*> euid=<*> <*> ruser= <*>,118
+b780997e,check pass; user unknown,117
+968a0b94,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= <*> <*>,372
+09789b2b,session opened for user <*> by <*>,123
+27624832,session closed for user <*>,123
+64042dcf,ALERT exited abnormally with [<*>],43
+2e653015,connection from <*> <*> at <*> Jun <*> <*>:<*>:<*> <*>,162
+656067bb,User unknown timed out after <*> seconds at Sat Jun <*> <*>:<*>:<*> <*>,1
+d6254e1a,cupsd <*> succeeded,12
+6f97e9d4,restart.,7
+4f67b71e,Received SNMP packet(s) from <*>,1
+f6e13a4d,Authentication failed from <*> (<*>): Permission denied in replay cache code,8
+dea5ca56,Kerberos authentication failed,23
+d9f1af4c,Authentication failed from <*> (<*>): Software caused connection abort,15
+d8500e42,connection from <*> <*> at <*> Jul <*> <*>:<*>:<*> <*>,747
+5bf2098f,*** info [mice.c(<*>)]:,1
+c3e293cc,imps2: Auto-detected intellimouse PS/<*>,1
+3bb0e3d5,ROOT LOGIN ON tty<*>,1
+3d002f62,removing device node <*>,4
+961489c4,creating device node <*>,4
+03649f38,Couldn't authenticate user,1
+cedf9d0b,"ANONYMOUS FTP LOGIN FROM <*>, (anonymous)",2
+a82d5ea6,notify question section contains no SOA,16
+ee259d46,getpeername (ftpd): Transport endpoint is not connected,4
+9998416d,warning: can't get client address: Connection reset by peer,2
+91fea51a,syslogd startup succeeded,1
+ccfa29ce,"klogd <*>.<*>.<*>, log source = /proc/kmsg started.",1
+58c5f804,Linux version <*>.<*>.<*>-<*>.<*> (bhcompile@bugs.build.redhat.com) (gcc version <*>.<*>.<*> <*> (Red Hat Linux <*>.<*>.<*>-<*>)) #<*> Sat May <*> <*>:<*>:<*> EDT <*>,1
+8c537990,BIOS-provided physical RAM map:,1
+6dc36b09,BIOS-e820: <*> - <*> (usable),2
+0f5f997d,BIOS-e820: <*> - <*> (reserved),3
+9b11616a,0MB HIGHMEM available.,1
+6b643c98,126MB LOWMEM available.,1
+42e1da55,zapping low mappings.,1
+abd14c95,klogd startup succeeded,1
+a7228435,On node <*> totalpages: <*>,1
+532896b6,"DMA zone: <*> pages, LIFO batch:<*>",1
+f875a45b,"Normal zone: <*> pages, LIFO batch:<*>",1
+d7763055,irqbalance startup succeeded,1
+91d02319,"HighMem zone: <*> pages, LIFO batch:<*>",1
+107dd053,DMI <*>.<*> present.,1
+45e5ce07,ACPI disabled because your bios is from <*> and too old,1
+29249ae3,You can enable it with acpi=force,1
+4d847ed1,Built <*> zonelists,1
+2ec79755,Kernel command line: ro root=LABEL=/ rhgb quiet,1
+4845b66c,mapped 4G/4G trampoline to ffff3000.,1
+3c918e8f,Initializing CPU#<*>,1
+3776b2f4,"CPU <*> irqstacks, hard=<*> soft=<*>",1
+7d73b4c5,portmap startup succeeded,1
+56dbac5b,PID hash table entries: <*> (order <*>: <*> bytes),1
+a55cfef8,Detected <*>.<*> MHz processor.,1
+b97f359a,Version <*>.<*>.<*> Starting,1
+85959353,Using tsc for high-res timesource,1
+25830347,rpc.statd startup succeeded,1
+558c444b,Console: colour VGA+ 80x<*>,1
+1559494b,"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)",1
+b24a2e02,Calibrating delay loop... <*>.<*> BogoMIPS,1
+3a0effc3,Security Scaffold v1.<*>.<*> initialized,1
+158c34d8,SELinux: Initializing.,1
+426f668c,SELinux: Starting in permissive mode,1
+e0661b3c,"There is already a security framework initialized, register_security failed.",1
+a31006da,Failure registering capabilities with the kernel,1
+41ffccb1,selinux_register_security: Registering secondary module capability,1
+48a493b0,Capability LSM initialized,1
+00c09a87,rpc.idmapd startup succeeded,1
+12a0a01e,"Dentry cache hash table entries: <*> (order: <*>, <*> bytes)",1
+644c3598,"Inode-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+a4ab81e4,"Mount-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+97d5ba9f,"CPU: L1 I cache: 16K, L1 D cache: 16K",1
+d678ffa6,CPU: L2 cache: 256K,1
+53650236,Intel machine check architecture supported.,1
+b64203c9,Intel machine check reporting enabled on CPU#<*>.,1
+b47e70f3,CPU: Intel Pentium III (Coppermine) stepping <*>,1
+1d8fe60a,Enabling fast FPU save and restore... done.,1
+5de744ee,Enabling unmasked SIMD FPU exception support... done.,1
+0dfe904f,Checking 'hlt' instruction... OK.,1
+80734f26,Initializing random number generator: succeeded,1
+60696e47,POSIX conformance testing by UNIFIX,1
+4af88f8f,NET: Registered protocol family <*>,1
+3ac5bdcd,"PCI: PCI BIOS revision <*>.<*> entry at 0xfc0ce, last bus=<*>",1
+0f556ff9,PCI: Using configuration type <*>,1
+d789e1f7,mtrr: v2.<*> (<*>),1
+1ee2f7d8,ACPI: Subsystem revision <*>,1
+cf383357,ACPI: Interpreter disabled.,1
+ba3aa8a5,Linux Plug and Play Support v0.<*> (c) Adam Belay,1
+ee129c71,Starting pcmcia: succeeded,1
+f1205e3c,usbcore: registered new driver <*>,2
+cafc1bbd,ACPI: ACPI tables contain no PCI IRQ routing entries,1
+ea8a8d97,PCI: Invalid ACPI-PCI IRQ routing table,1
+1f72ed8d,PCI: Probing PCI hardware,1
+af4344c8,PCI: Probing PCI hardware (bus <*>),1
+607d2f78,Transparent bridge - <*>:<*>:1e.<*>,1
+e08ec39e,PCI: Using IRQ router PIIX/ICH [<*>/<*>] at <*>:<*>:1f.<*>,1
+c8c488f0,apm: BIOS version <*>.<*> Flags 0x03 (Driver version <*>.16ac),1
+4b7e6959,audit: initializing netlink socket (disabled),1
+8d44ea73,kernel.core_uses_pid = <*>,1
+6b878d6c,HCI daemon ver <*>.<*> started,1
+dbae5392,hcid startup succeeded,1
+df1260ea,audit(<*>.<*>:<*>): initialized,1
+a9d64ca2,Setting network parameters: succeeded,1
+3307aa8a,sdpd startup succeeded,1
+9808beac,sdpd v1.<*> started,1
+0906cb48,"Total HugeTLB memory allocated, <*>",1
+f3b4bfda,Bringing up loopback interface: succeeded,1
+158ceaf1,VFS: Disk quotas dquot_<*>.<*>.<*>,1
+b0ab04b3,"Dquot-cache hash table entries: <*> (order <*>, <*> bytes)",1
+6999d396,SELinux: Registering netfilter hooks,1
+2b566107,Initializing Cryptographic API,1
+fbcc2963,pci_hotplug: PCI Hot Plug PCI Core version: <*>.<*>,1
+2bf1954b,isapnp: Scanning for PnP cards...,1
+2e3d6c0c,isapnp: No Plug & Play device found,1
+fae82c3a,Real Time Clock Driver v1.<*>,1
+eb2ffdd1,Linux agpgart interface v0.<*> (c) Dave Jones,1
