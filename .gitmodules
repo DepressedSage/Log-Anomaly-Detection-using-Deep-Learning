@@ -1,0 +1,3 @@
+[submodule "Drain/LogParser-Drain"]
+	path = Drain/LogParser-Drain
+	url = https://github.com/PrimalPimmy/LogParser-Drain
