@@ -60,6 +60,11 @@ The workflow of this project can be summarized as follows:
    - The LSTM model is trained on normal system behavior, learning the patterns within the log data.
    - During inference, the model predicts whether a new log sequence is anomalous based on the learned patterns.
 
+### Project Structure and Flow
+![image](https://github.com/DepressedSage/Log-Anomaly-Detection-using-Deep-Learning/assets/78322027/874ca136-9d83-4c92-b5b9-5ff8defee0af)
+
+
+
 ### Code Overview
 
 The project is organized into several sections:
